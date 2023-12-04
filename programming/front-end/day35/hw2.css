@@ -1,0 +1,18 @@
+#contact1{
+    text-decoration: none;
+    color: white;
+}
+#contact1:hover{
+    color: darkgreen;
+    background-color: grey;
+}
+a img{
+    text-align: right;
+}
+body{
+    text-align:center;
+    color: black;
+}
+#end{
+    background-color: gray;
+}

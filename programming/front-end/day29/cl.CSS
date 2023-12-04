@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(3, 239, 46);
+    
+}
+button a{
+    color: black;
+    
+    text-align: right;
+}
+h1 strong{
+    color: rgb(6, 3, 80);
+}
+#li{
+    text-decoration: none;
+    text-align: right;
+}

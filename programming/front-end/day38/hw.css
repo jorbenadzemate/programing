@@ -1,0 +1,14 @@
+#registration {
+    text-align: center;
+    size: 10cm;
+}
+#id{
+    line-height: normal;
+}
+input{
+    border-radius:15px;
+}
+#sub :hover{
+        color: green;
+        
+}

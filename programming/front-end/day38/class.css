@@ -1,0 +1,9 @@
+#none{
+    list-style-type:none;
+}
+#squares{
+    list-style-type: square;
+}
+#circle{
+    list-style-type:circle;
+}

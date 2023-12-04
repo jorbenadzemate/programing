@@ -1,0 +1,9 @@
+#none{
+    list-style-type: none;
+}
+#roman{
+    list-style-type: upper-roman;
+}
+#latin{
+    list-style-type: upper-latin;
+}
