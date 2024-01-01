@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn" onclick="button()">Click me !</button>
+    <script>
+        function sum() {
+            let num1=Number(prompt('enter first number : '))
+            let num2=Number(prompt('enter second number : '))
+            console.log(num1 + num2)
+        }
+        sum()
+        // --------------------------------------------------------------------------
+        let but = GetElementById('btn')
+        function button(){
+            but.textContent('thx for clicking')
+            but.style.color("purple")
+            }
+
+    </script>
+</body>
+</html>
